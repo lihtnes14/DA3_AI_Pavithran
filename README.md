@@ -29,8 +29,8 @@ To run this application locally, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/viswa2k4/Digital_Assignment_3_Viswanathan.git
-    cd Digital_Assignment_3_Viswanathan
+    git clone https://github.com/pavithranuk27/DA3_AI_Pavithran
+    cd DA3_AI_Pavithran
     ```
 
 2. Set up a virtual environment (optional but recommended):
